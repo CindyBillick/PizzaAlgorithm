@@ -3,3 +3,5 @@ make pepperoni
 make pepperoni
 make onion
 make mushroom
+make double cheese
+make bacon
