@@ -1,3 +1,5 @@
 make sausage
 make pepperoni
 make pepperoni
+make onion
+make mushroom
