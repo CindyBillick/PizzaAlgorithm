@@ -4,4 +4,10 @@ make double pepperoni
 make mushroom
 make double cheese
 make pineapple
+<<<<<<< HEAD
 make bacon
+=======
+make bacon
+ 
+add text
+>>>>>>> testbranch
