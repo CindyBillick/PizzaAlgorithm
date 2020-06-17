@@ -1,5 +1,8 @@
 make sausage
 make pepperoni
-make pepperoni
+make double pepperoni
 make mushroom
 make double cheese
+make pineapple
+make bacon
+ 
