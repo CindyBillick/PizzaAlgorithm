@@ -5,9 +5,8 @@ make mushroom
 make double cheese
 make pineapple
 make bacon
-<<<<<<< HEAD
-=======
 changed
 more changes
 A lot of changes
->>>>>>> CindyB
+Cindy's changes
+
